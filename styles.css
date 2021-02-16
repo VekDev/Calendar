@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("Images/MountainBack.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.calendar {
+    position: relative;
+    width: 200px;
+    background: #fff;
+    text-align: center;
+    border-radius: 8px;
+    overflow: hidden;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,transparent,#0004);
+}
+
+.calendar #monthName {
+    position: relative;
+    padding: 5px 10px;
+    background: #287999;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.calendar #dayName {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #999;
+}
+
+.calendar #dayNumber {
+    margin-top: 0px;
+    line-height: 1em;
+    font-size: 80px;
+    font-weight: 700;
+    color: #333;
+}
+
+.calendar #year {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #999;
+}
+
+
+
