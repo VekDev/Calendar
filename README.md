@@ -6,9 +6,9 @@ Please do not steal or change any of this code. 🔎
 
 # 👉🏻 contact me 👈🏻
 
-· Twitter: https://twitter.com/VekDev
-· Instagram: https://www.instagram.com/vekdev.js/
-· Github: 
-· Gmail: KevinAlvarezDev@gmail.com
+· Twitter: https://twitter.com/VekDev <br/>
+· Instagram: https://www.instagram.com/vekdev.js/ <br/>
+· Github: https://github.com/VekDev <br/>
+· Gmail: KevinAlvarezDev@gmail.com <br/>
 
 
