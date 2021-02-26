@@ -10,9 +10,9 @@ calendar link: https://codertoast.github.io/Calendar/
 
 · Twitter: https://twitter.com/CoderToast <br/>
 
-· Instagram: https://www.instagram.com/vekdev.js/ <br/>
+· Instagram: https://www.instagram.com/codertoast/ <br/>
 
-· Github: https://github.com/VekDev <br/>
+· Github: https://github.com/CoderToast <br/>
 
 · Gmail: KevinAlvarezDev@gmail.com <br/>
 
