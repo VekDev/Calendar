@@ -8,7 +8,7 @@ calendar link: https://codertoast.github.io/Calendar/
 
 # 👉🏻 contact me 👈🏻
 
-· Twitter: https://twitter.com/VekDev <br/>
+· Twitter: https://twitter.com/CoderToast <br/>
 
 · Instagram: https://www.instagram.com/vekdev.js/ <br/>
 
