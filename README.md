@@ -10,7 +10,7 @@ calendar link: https://archvek.github.io/Calendar/
 
 · Twitter: https://twitter.com/ArchVek <br/>
 
-· Instagram: https://www.instagram.com/codertoast/ <br/>
+· Instagram: https://www.instagram.com/openvek/ <br/>
 
 · Github: https://github.com/ArchVek <br/>
 
