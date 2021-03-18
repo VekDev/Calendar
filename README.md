@@ -8,11 +8,11 @@ calendar link: https://archvek.github.io/Calendar/
 
 # 👉🏻 contact me 👈🏻
 
-· Twitter: https://twitter.com/CoderToast <br/>
+· Twitter: https://twitter.com/ArchVek <br/>
 
 · Instagram: https://www.instagram.com/codertoast/ <br/>
 
-· Github: https://github.com/CoderToast <br/>
+· Github: https://github.com/ArchVek <br/>
 
 · Gmail: KevinAlvarezDev@gmail.com <br/>
 
