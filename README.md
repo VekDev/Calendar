@@ -15,13 +15,13 @@ calendar link: https://archvek.github.io/Calendar/
 * JavaScript
 * Visual Studio Code
 
-# 📋 License 📋
-
-This project is under the Apache 2.0 license - see the LICENSE.md file for more information
-
 # ✒️ Authors ✒️
 
 * Kevin Alexander Alvarez Echeverri (ArchVek)
+
+# 📋 License 📋
+
+This project is under the Apache 2.0 license - see the LICENSE.md file for more information
 
 # 👉🏻 contact me 👈🏻
 
