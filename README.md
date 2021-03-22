@@ -8,7 +8,7 @@ calendar link: https://archvek.github.io/Calendar/
 
 <img src="Images/Demo-Calendar.png" alt="Demo img" height="220px" width="400px" />
 
-# 🧰 Made with 🧰
+# 🧰 built with 🧰
 
 * HTML
 * CSS
@@ -17,7 +17,7 @@ calendar link: https://archvek.github.io/Calendar/
 
 # ✒️ Authors ✒️
 
-* Kevin Alexander Alvarez Echeverri (ArchVek)
+* Kevin Alvarez (ArchVek)
 
 # 📋 License 📋
 
@@ -32,5 +32,9 @@ This project is under the Apache 2.0 license - see the LICENSE.md file for more 
 · Github: https://github.com/ArchVek <br/>
 
 · Gmail: KevinAlvarezDev@gmail.com <br/>
+
+<hr>
+
+Made with ❤️ by Kevin Alvarez (ArchVek)
 
 
