@@ -4,6 +4,25 @@ Hello! this is a small project in which I have created a calendar with HTML, CSS
 
 calendar link: https://archvek.github.io/Calendar/
 
+# 👀 Demo 👀
+
+<img src="Images/Demo-Calendar.png" alt="Demo img" height="220px" width="400px" />
+
+# 🧰 Made with 🧰
+
+* HTML
+* CSS
+* JavaScript
+* Visual Studio Code
+
+# 📋 License 📋
+
+This project is under the Apache 2.0 license - see the LICENSE.md file for more information
+
+# ✒️ Authors ✒️
+
+* Kevin Alexander Alvarez Echeverri (ArchVek)
+
 # 👉🏻 contact me 👈🏻
 
 · Twitter: https://twitter.com/ArchVek <br/>
