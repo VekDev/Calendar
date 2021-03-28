@@ -17,7 +17,7 @@ calendar link: https://archvek.github.io/Calendar/
 
 # ✒️ Authors ✒️
 
-* Kevin Alvarez (ArchVek)
+* Kevin Alvarez (Vek)
 
 # 📋 License 📋
 
