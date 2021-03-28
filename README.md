@@ -25,11 +25,11 @@ This project is under the Apache 2.0 license - see the LICENSE.md file for more 
 
 # 👉🏻 contact me 👈🏻
 
-· Twitter: https://twitter.com/ArchVek <br/>
+· Twitter: https://twitter.com/OpenVek <br/>
 
-· Instagram: https://www.instagram.com/openvek/ <br/>
+· Instagram: https://www.instagram.com/OpenVek/ <br/>
 
-· Github: https://github.com/ArchVek <br/>
+· Github: https://github.com/OpenVek <br/>
 
 · Gmail: KevinAlvarezDev@gmail.com <br/>
 
