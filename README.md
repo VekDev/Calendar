@@ -35,6 +35,6 @@ This project is under the Apache 2.0 license - see the LICENSE.md file for more 
 
 <hr>
 
-Made with ❤️ by Kevin Alvarez (ArchVek)
+Made with ❤️ by Kevin Alvarez (OpenVek)
 
 
