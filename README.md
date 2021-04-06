@@ -2,7 +2,7 @@
 
 Hello! this is a small project in which I have created a calendar with HTML, CSS and JavaScript. 😄
 
-calendar link: https://archvek.github.io/Calendar/
+calendar link: https://openvek.github.io/Calendar/
 
 # 👀 Demo 👀
 
