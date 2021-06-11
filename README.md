@@ -2,11 +2,13 @@
 
 Hello! this is a small project in which I have created a calendar with HTML, CSS and JavaScript. 😄
 
-calendar link: https://openvek.github.io/Calendar/
+# 👀 Calendar 👀
 
-# 👀 Demo 👀
+https://openvek.github.io/Calendar/
 
-<img src="Images/Demo-Calendar.png" alt="Demo img" height="220px" width="400px" />
+# 📷 Screenshots 📷
+
+<img src="Images/Demo-Calendar.png" alt="Demo img" height="220px" width="410px" />
 
 # 🧰 built with 🧰
 
