@@ -27,13 +27,13 @@ This project is under the Apache 2.0 license - see the LICENSE.md file for more 
 
 # 👉🏻 Contact me 👈🏻
 
-· Twitter: https://twitter.com/OpenVek <br/>
+* Twitter: https://twitter.com/OpenVek <br/>
 
-· Instagram: https://www.instagram.com/OpenVek/ <br/>
+* Instagram: https://www.instagram.com/OpenVek/ <br/>
 
-· Github: https://github.com/OpenVek <br/>
+* Github: https://github.com/OpenVek <br/>
 
-· Gmail: kevinalvarezdev@gmail.com <br/>
+* Gmail: kevinalvarezdev@gmail.com <br/>
 
 <hr>
 
