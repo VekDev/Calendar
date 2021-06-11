@@ -2,7 +2,7 @@
 
 Hello! this is a small project in which I have created a calendar with HTML, CSS and JavaScript. 😄
 
-# 👀 Calendar 👀
+# 👀 Calendar link 👀
 
 https://openvek.github.io/Calendar/
 
@@ -10,7 +10,7 @@ https://openvek.github.io/Calendar/
 
 <img src="Images/Demo-Calendar.png" alt="Demo img" height="220px" width="410px" />
 
-# 🧰 built with 🧰
+# 🧰 Built with 🧰
 
 * HTML
 * CSS
@@ -25,7 +25,7 @@ https://openvek.github.io/Calendar/
 
 This project is under the Apache 2.0 license - see the LICENSE.md file for more information
 
-# 👉🏻 contact me 👈🏻
+# 👉🏻 Contact me 👈🏻
 
 · Twitter: https://twitter.com/OpenVek <br/>
 
