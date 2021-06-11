@@ -33,7 +33,7 @@ This project is under the Apache 2.0 license - see the LICENSE.md file for more 
 
 · Github: https://github.com/OpenVek <br/>
 
-· Gmail: KevinAlvarezDev@gmail.com <br/>
+· Gmail: kevinalvarezdev@gmail.com <br/>
 
 <hr>
 
