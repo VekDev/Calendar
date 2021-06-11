@@ -6,7 +6,7 @@ Hello! this is a small project in which I have created a calendar with HTML, CSS
 
 https://openvek.github.io/Calendar/
 
-# 📷 Screenshots 📷
+# 📷 Screenshot 📷
 
 <img src="Images/Demo-Calendar.png" alt="Demo img" height="220px" width="410px" />
 
